@@ -1,3 +1,3 @@
 # demo
 This is my new Repository. <br>
-Author - Surya
+Author - Surya Bhai
